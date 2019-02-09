@@ -39,10 +39,17 @@ Part 4- TinkerCAD Circuits
 # Test Results
 
 # Discussion
-Q1: In your lab report show currents entering and leaving a node using equations. (Ex: I5 = I6 + I7). 
-Q2: Which branches have the same voltage? Which do not?
-Q3: Why is there a difference in the voltage in some branches? 
-Q4: What is the sensor resistance (R1) when the sensor reads 3.63V?
-Q5: What is the sensor resistance (R2) when the sensor reads .354V?
-Q6: What is the sensor resistance (R3) when the sensor reads 1.09V?
-Q7: If the maximum current for the sensor is .4mA, will the sensor work with this circuit? What is the maximum current for this circuit?
+- Q1: In your lab report show currents entering and leaving a node using equations. (Ex: I5 = I6 + I7). 
+
+- Q2: Which branches have the same voltage? Which do not?
+
+- Q3: Why is there a difference in the voltage in some branches? 
+
+- Q4: What is the sensor resistance (R1) when the sensor reads 3.63V?
+
+- Q5: What is the sensor resistance (R2) when the sensor reads .354V?
+
+- Q6: What is the sensor resistance (R3) when the sensor reads 1.09V?
+
+- Q7: If the maximum current for the sensor is .4mA, will the sensor work with this circuit? What is the maximum current for this circuit?
+
