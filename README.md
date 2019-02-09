@@ -17,6 +17,10 @@ Our Overall Tasks are
 - Laptop to access Partsim.com and TinkerCAD.
   
 # Assembly Procedures
+Build the circuit below for Part 1.
+----Insert the circuit in series-----
+Build the circuit below for Part 2.
+----Insert the circuit in parallel-----
 
 # Test Equipment
 
@@ -43,7 +47,8 @@ Part 4- TinkerCAD Circuits
 
 
 # Test Results
-
+------Insert Table of Results-----
+------Insert TinkerCAD------
 # Discussion
 - Q1: In your lab report show currents entering and leaving a node using equations. (Ex: I5 = I6 + I7). 
 
