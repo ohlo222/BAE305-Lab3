@@ -14,6 +14,7 @@ Our Overall Tasks are
 - Resistors with the following values, (in Ohms, K = 10^3)
   - 220, 1K, 2.2K, 3.3K, 4.7K, 6.8K, 10K, 470K
 - Generic Digital Multimeter (DMM)
+- Laptop to access Partsim.com and TinkerCAD.
   
 # Assembly Procedures
 
