@@ -9,7 +9,12 @@ Our Overall Tasks are
 - To confirm the validity of Thevenin’s and superposition theorems.
 
 # Materials
-
+- DC Power Supply
+- Breadboard 
+- Resistors with the following values, (in Ohms, K = 10^3)
+  - 220, 1K, 2.2K, 3.3K, 4.7K, 6.8K, 10K, 470K
+- Generic Digital Multimeter (DMM)
+  
 # Assembly Procedures
 
 # Test Equipment
