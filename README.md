@@ -35,10 +35,11 @@ Part 2. Parallel Circuit
 - Verify that the current leaving is equal to the current entering any node.
 
 Part 2.2 KVL
-- Using voltage probes from the provided DMM, measure and record the voltage drop across all resistors. R1-R8.
+- Using voltage probes from the provided DMM, measure and record the voltage drop across all resistors. R1-R8. From the second circuit.
 
 Part 3. Potentiometer
 - Given a sensor that ranges from 0-19.650K Ohms and a 14.1V input voltage, determine the correct resistance (R?) to place in series with the sensor to yield a voltage output between 0-5V across the sensor. Below is the provided visual aid for the problem.
+------Insert Circuit Picture------
 
 Part 4- TinkerCAD Circuits
 - Login to TinkerCAD Circuits. (An online website)
